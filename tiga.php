@@ -18,4 +18,4 @@ function createStar($max){
 	echo $result;
 }
 
-echo createStar(7);
+echo createStar(5);
